@@ -49,6 +49,8 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elanore&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elanore&count_private=true&show_icons=true&theme=radical)
 
+https://github-readme-activity-graph.cyclic.app/graph?username=elanore&theme=radical
+
 ---
 
 ## 🌱 Interests
